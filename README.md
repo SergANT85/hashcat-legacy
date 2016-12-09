@@ -1,1 +1,1 @@
-# hashcat-legacy
+# hashcat-legacy (test)
